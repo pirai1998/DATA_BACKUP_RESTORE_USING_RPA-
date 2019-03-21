@@ -8,15 +8,15 @@ Data backup is the process of backing up the data, refers to copying the data in
 ## MODULE SPLITUP
 <ul>
 
-## Module 1: Mail automation (N.Revathi)
+## Module 1: Mail automation
    <li>The input file is received from the mail.</li>
    <li>The file gets downloaded and saved in the respective folder, and if the respective folder is not available it will automatically        creates the folder and save in it.</li>
    
-## Module 2: Backup process (R.Sreerag)
-   <li>The data from the mulitple number of files is  being and read and stored in a separate excel file.</li>
+## Module 2: Backup process
+   <li>The data from the multiple number of files is  being and read and stored in a separate excel file.</li>
    <li>Then that excel file gets stored in the Orchestrator queue for backup.</li>
    
-## Module 3: Restoring process (K.Piraivendhan)
+## Module 3: Restoring process
    <li>Then we backup the files from Orchestrator.</li> 
    <li>Then using the decision flow it checks for the file, if the file is not found it will return as "file not found" orelse it will          return the backup file and it will store it in a separate excel file. </li>
    
