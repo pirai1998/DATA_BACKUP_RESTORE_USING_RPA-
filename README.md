@@ -20,8 +20,8 @@ Data backup is the process of backing up the data, refers to copying the data in
 ## Module 4: Orchestrator connection
    <li>The bot gets connected to the Orchestrator using the generated machine key.</li>
    <li>The backup process is done on daily basis.</li>
-   <li>The restoring process is done while triggering the bot.</li>
-</ul>
+   <li>The restoring process is done while triggering the bot.</li></ul>
+   
 ## PROPOSED SYSTEM
 In our proposed system, the data from the different sources are collected on a daily basis through mail. The bot will be trained to the process of extraction of data based on condition. The process will be idle until the admin triggers the bot using orchestrator. After the triggering factor, the files from the different sources are collected as a master file. The backup process is done for the master file. After the backup process, the restoring process is executed.
 
