@@ -11,12 +11,15 @@ Data backup is the process of backing up the data, refers to copying the data in
 ## Module 1: Mail automation (N.Revathi)
    <li>The input file is received from the mail.</li>
    <li>The file gets downloaded and saved in the respective folder.</li>
+   
 ## Module 2: Backup process (R.Sreerag)
    <li>The input data from the different files are read and written in the single sheet.</li>
    <li>The data gets stored in the Orchestrator queue.</li>
+   
 ## Module 3: Restoring process (K.Piraivendhan)
    <li>This module takes the data from the Orchestrator queue and writes to the excel sheet.</li>
    <li>If the excel sheet is unavailable, a new excel file gets created and the data are written to that excel file.</li>
+   
 ## Module 4: Orchestrator connection
    <li>The bot gets connected to the Orchestrator using the generated machine key.</li>
    <li>The backup process is done on daily basis.</li>
