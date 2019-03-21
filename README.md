@@ -7,4 +7,4 @@ PROPOSED SYSTEM: In our proposed system, the data from the different sources are
 
 ADVANTAGES OF PROPOSED SYSTEM: *It can help scale resources and meet the need of growing business data. *Boost efficiency and effectiveness of the system.
 
-PROJECT COMPLETED TILL NOW: Project has been completed and we are focussing on the accuracy of the system.
+PROJECT COMPLETED TILL NOW: Project has been completed.
