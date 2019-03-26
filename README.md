@@ -32,7 +32,10 @@ In our proposed system, the data from the different sources are collected on a d
 It can help scale resources and meet the need of growing business data. Boost efficiency and effectiveness of the system.
 
 ## Future Enhancements
-<li>Security is enhanced.</li>
-<li>Scheduled process can be done.</li>
 <li>Cloud storage could be used.</li>
+<li>High level security is enhanced.</li>
+
+## PROJECT STATUS
+<li>Project is completed(100%).</li>
+
 
